@@ -2,7 +2,7 @@
 
 This Python script checks the system CPU, Memory, and Disk Usage.
 
-It will send an email if there are problems, such as:
+It will send an email if there are problems such as:
 
 * Report an error if CPU usage is over 80%
 * Report an error if available disk space is lower than 20%
